@@ -1,0 +1,10 @@
+{
+  "min_python": "3.9",
+  "disk_path": ".",
+  "required_env": [
+    "PATH"
+  ],
+  "required_tools": [
+    "python"
+  ]
+}
